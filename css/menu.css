@@ -1,0 +1,16 @@
+*{
+    background-color: #111312;
+}
+.menu {
+ display: grid;
+ justify-content: center;
+ align-items: center;
+}
+
+
+@media (max-width:767px){
+    img{
+        width: 100%;
+    }
+}
+
